@@ -1,0 +1,10 @@
+Sort (500000) took: 22 ms.
+Sort (1000000) took: 31 ms.
+Sort (2000000) took: 52 ms.
+Sort (4000000) took: 81 ms.
+Sort (8000000) took: 143 ms.
+Sort (16000000) took: 280 ms.
+Sort (32000000) took: 508 ms.
+Sort (64000000) took: 1000 ms.
+Sort (128000000) took: 1995 ms.
+Finished!
